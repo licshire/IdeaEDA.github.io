@@ -5,7 +5,7 @@ notifications:
     on_failure: change
 
 install:
-  - go get github.com/kardianos/govendor
+  - go get -u github.com/kardianos/govendor
   - govendor get github.com/gohugoio/hugo
 
 script:
