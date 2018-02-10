@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LibrePCB Blog</title>
+    <link>http://eda.ai/blog/</link>
+    <description>Blog posts of LibrePCB, an Open Source EDA software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://eda.ai/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LibrePCB Talk at FOSDEM 2018</title>
+      <link>http://eda.ai/blog/2018-01-02_librepcb_at_fosdem_18/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <dc:creator>U. Bruhin</dc:creator>
+      <guid>http://eda.ai/blog/2018-01-02_librepcb_at_fosdem_18/</guid>
+      <description>The Free and Open Source Software Developers&amp;rsquo; European Meeting (FOSDEM) is a great event for developers and users interested in free software. It is hosted at the ULB Solbosch Campus in Brussels, Belgium. This year it takes place on February 3 / 4.
+
+There are many different tracks available, but for us the most interesting one is the CAD and Open Hardware devroom. It contains talks about PCB design, FPGA design, SPICE simulation and open hardware in general.</description>
+    </item>
+    
+    <item>
+      <title>LibrePCB Has Switched to S-Expressions</title>
+      <link>http://eda.ai/blog/2017-10-30_librepcb_has_switched_to_s_expressions/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <dc:creator>U. Bruhin</dc:creator>
+      <guid>http://eda.ai/blog/2017-10-30_librepcb_has_switched_to_s_expressions/</guid>
+      <description>One major goal of LibrePCB is to use human readable files to represent libraries, projects and so on. This is important to let the user understand what the EDA tool actually does when modifying a schematic or board. In addition, a good file format is essential for version control systems to keep track of changes in libraries and projects.
+But LibrePCB doesn&amp;rsquo;t just want to have some human readable file format.</description>
+    </item>
+    
+    <item>
+      <title>LibrePCB Has a Blog! :-)</title>
+      <link>http://eda.ai/blog/2017-09-13_librepcb-has-a-blog/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <dc:creator>U. Bruhin</dc:creator>
+      <guid>http://eda.ai/blog/2017-09-13_librepcb-has-a-blog/</guid>
+      <description>Here it is: The long awaited blog of LibrePCB!
+It&amp;rsquo;s still very basic, but this will be improved some time ;)
+From now on, we will use this blog to provide various information, e.g. announcements of upcoming events, release notes, development progress or technical explanations.
+If you have any input regarding this blog or our website in general, please open an issue on the GitHub repository.</description>
+    </item>
+    
+  </channel>
+</rss>

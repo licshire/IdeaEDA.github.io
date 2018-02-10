@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://eda.ai/post/about/</loc>
+    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/post/control_panel/</loc>
+    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/post/schematic_editor/</loc>
+    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/post/board_editor/</loc>
+    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/post/library_browser/</loc>
+    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/post/library_manager/</loc>
+    <lastmod>2017-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/post/sponsors/</loc>
+    <lastmod>2017-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/blog/2018-01-02_librepcb_at_fosdem_18/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/blog/2017-10-30_librepcb_has_switched_to_s_expressions/</loc>
+    <lastmod>2017-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/blog/2017-09-13_librepcb-has-a-blog/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/</loc>
+    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/blog/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/post/</loc>
+    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eda.ai/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
