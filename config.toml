@@ -1,6 +1,6 @@
 baseurl = "http://eda.ai"
 languageCode = "en-us"
-title = "IdeaEDA"
+title = "IDEA EDA"
 [params]
   topBlockTitle = "IdeaEDA"
   topBlockDescription = "A modern and intelligent Schematic & PCB Editor"
