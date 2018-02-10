@@ -3,6 +3,6 @@ languageCode = "en-us"
 title = "IdeaEDA"
 [params]
   topBlockTitle = "IdeaEDA"
-  topBlockDescription = "A new, powerful and intuitive EDA tool for everyone."
+  topBlockDescription = "A modern and intelligent Schematic & PCB Editor"
   mainIcon = "img/librepcb.png"
   blogTitle = "IdeaEDA Blog"
