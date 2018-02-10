@@ -1,8 +1,8 @@
-baseurl = "http://librepcb.org"
+baseurl = "http://eda.ai"
 languageCode = "en-us"
-title = "LibrePCB"
+title = "IdeaEDA"
 [params]
-  topBlockTitle = "LibrePCB"
+  topBlockTitle = "IdeaEDA"
   topBlockDescription = "A new, powerful and intuitive EDA tool for everyone."
   mainIcon = "img/librepcb.png"
-  blogTitle = "LibrePCB Blog"
+  blogTitle = "IdeaEDA Blog"

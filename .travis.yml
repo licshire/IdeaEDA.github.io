@@ -10,7 +10,7 @@ install:
 
 script:
   - hugo
-  - echo "librepcb.org" > public/CNAME # required for GitHub Pages
+  - echo "eda.ai" > public/CNAME # required for GitHub Pages
 
 deploy:
   provider: pages
